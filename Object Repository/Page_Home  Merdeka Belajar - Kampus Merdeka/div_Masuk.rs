@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masuk</name>
+   <tag></tag>
+   <elementGuidId>a2d672a0-7836-47c9-a907-cca5e16a6894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div[2]/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-0-0-1.flex-0-0-2.centerX-0-0-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b237e8d6-027b-434a-b159-0713462ed94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 flex-0-0-2 centerX-0-0-5</value>
+      <webElementGuid>66a95a83-0ea4-4386-b8c6-a620ef194178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>c61aadc0-9903-4165-8518-8384323a6c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 unaccessibleSelf-0-0-12 container-0-0-385&quot;]/div[@class=&quot;box-0-0-1 centering-0-0-7 transitioner-0-0-386&quot;]/div[@class=&quot;box-0-0-1 container-0-0-902 modal-0-0-752&quot;]/div[@class=&quot;box-0-0-1 clickable-0-0-8 container-0-0-91 transition-0-0-76 warning-0-0-105 warning-normal-0-0-106 btn-0-0-904&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 centerX-0-0-5&quot;]</value>
+      <webElementGuid>f920d346-6bd6-49d6-bca9-5b16b3c0f636</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div[2]/div/div[5]/div</value>
+      <webElementGuid>03b825f0-fd2a-4d3b-9171-4edd4b7ad250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::div[1]</value>
+      <webElementGuid>edd8c5aa-89ac-4506-b339-9368bab3dd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya tidak bisa masuk'])[1]/preceding::div[1]</value>
+      <webElementGuid>42dca99f-2604-45aa-a086-42d5df6427f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]/div</value>
+      <webElementGuid>d92536ad-f5fa-4564-8575-2499219baff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>d7fce7bd-3b2a-42a2-800f-6c1b7dee6f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

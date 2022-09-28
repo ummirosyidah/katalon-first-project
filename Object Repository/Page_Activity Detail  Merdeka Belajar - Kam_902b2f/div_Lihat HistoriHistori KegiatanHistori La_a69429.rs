@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lihat HistoriHistori KegiatanHistori La_a69429</name>
+   <tag></tag>
+   <elementGuidId>d9ce7af5-75bc-4622-8746-a4b2d8be26ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[5]/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-0-0-1.row-0-0-4.centerY-0-0-6.between-0-0-13.heading-0-0-1389 > div.box-0-0-1.row-0-0-4.container-0-0-219 > div.box-0-0-1.clickable-0-0-8.clicker-0-0-223</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ad94f81-11cb-4209-902c-042bed783fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>menu-lihat-history</value>
+      <webElementGuid>f261edb5-cf80-4d29-a3fd-f0a5abc0b0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8c0705a0-b00d-4c7e-814f-c9bd67af66e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 clickable-0-0-8 clicker-0-0-223</value>
+      <webElementGuid>ac9eda3f-5fb6-4441-afb5-edc89a9b97bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat HistoriHistori KegiatanHistori Lamaran Kegiatan</value>
+      <webElementGuid>263ca3ec-02d9-49ff-80f5-b96c4c2b20bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 flex-0-0-2&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 body-0-0-1381&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 centerY-0-0-6&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 wrapper-0-0-1382&quot;]/div[@class=&quot;box-0-0-1 centerX-0-0-5 between-0-0-13 head-0-0-1388&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4 centerY-0-0-6 between-0-0-13 heading-0-0-1389&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4 container-0-0-219&quot;]/div[@class=&quot;box-0-0-1 clickable-0-0-8 clicker-0-0-223&quot;]</value>
+      <webElementGuid>f807d666-a0dd-42df-a5af-fdae7ee7a802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[5]/div/div/div/div/div/div/div</value>
+      <webElementGuid>7901bcca-9698-49e5-80f0-66a6ee9f3f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[14]</value>
+      <webElementGuid>966c1e06-dbb9-4eaf-87e2-de926d7dd669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::div[15]</value>
+      <webElementGuid>377b5329-2815-444b-bca2-5afef779a31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bersertifikat'])[1]/preceding::div[14]</value>
+      <webElementGuid>3dbad651-a93f-4bed-b253-df6998ad6bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='di sini'])[1]/preceding::div[66]</value>
+      <webElementGuid>48ae456c-0467-4d9d-9f50-2514af74ab4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div</value>
+      <webElementGuid>e1662f51-90cc-4e92-91d7-8023bd4c5c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lihat HistoriHistori KegiatanHistori Lamaran Kegiatan' or . = 'Lihat HistoriHistori KegiatanHistori Lamaran Kegiatan')]</value>
+      <webElementGuid>36fb304b-e542-434a-a9d0-f62bcf9e1adc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

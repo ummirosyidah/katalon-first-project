@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kegiatanku</name>
+   <tag></tag>
+   <elementGuidId>14fbc514-f678-4dff-97ac-a4ab5262ffea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[5]/div/header/div/div/nav/div[2]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-0-0-1.row-0-0-4.centerY-0-0-6.clickable-0-0-8.link-0-0-213.transition-0-0-76.hover-0-0-216.big-0-0-217.bigHover-0-0-218</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b808051-adfd-4e00-b81c-3ae502985280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>menu-kegiatanku</value>
+      <webElementGuid>0d7b656d-e952-4e21-b6df-bf7b433db735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 row-0-0-4 centerY-0-0-6 clickable-0-0-8 link-0-0-213 transition-0-0-76 hover-0-0-216 big-0-0-217 bigHover-0-0-218</value>
+      <webElementGuid>f5803207-488c-461e-81eb-e8a3b7ece905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kegiatanku</value>
+      <webElementGuid>fd429d17-6c73-4356-b11e-c46e9a17c474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 flex-0-0-2 container-0-0-176 page-0-0-229&quot;]/div[@class=&quot;box-0-0-1 content-0-0-178 content-0-0-232&quot;]/header[@class=&quot;box-0-0-1 centerX-0-0-5 container-0-0-741&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 centerY-0-0-6&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4&quot;]/nav[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 navigation-0-0-747&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4 container-0-0-219&quot;]/div[@class=&quot;box-0-0-1 clickable-0-0-8 clicker-0-0-223&quot;]/div[@class=&quot;box-0-0-1 shadow-0-0-1380 navigation-0-0-220 big-0-0-221 top-0-0-225 right-0-0-228 content-0-0-736&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4 centerY-0-0-6 clickable-0-0-8 link-0-0-213 transition-0-0-76 hover-0-0-216 big-0-0-217 bigHover-0-0-218&quot;]</value>
+      <webElementGuid>e0902570-3c86-4e40-8244-c1d805f6455f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[5]/div/header/div/div/nav/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>a1e3e8bb-f4e2-4d13-8ff7-a4fd79492214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[10]</value>
+      <webElementGuid>8afad655-5868-4ee7-92fb-fd3c882cdeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::div[11]</value>
+      <webElementGuid>42155df5-5ff2-49cf-a2f6-a24842fbe0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/preceding::div[19]</value>
+      <webElementGuid>ae765108-9a4f-4b88-909d-60f47f74b728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telepon: 021 57946104'])[1]/preceding::div[51]</value>
+      <webElementGuid>470e3098-085e-4beb-915c-be227728eb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>1eea6706-46a4-4147-809d-22ab3afa7959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kegiatanku' or . = 'Kegiatanku')]</value>
+      <webElementGuid>e796bcb4-34f9-4507-9cfa-e2bdbecf7768</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

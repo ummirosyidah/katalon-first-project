@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AkunKegiatankuSurvei KebhinekaanKeluar</name>
+   <tag></tag>
+   <elementGuidId>41355639-e531-4bb6-8761-48fdea2d8f9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[5]/div/header/div/div/nav/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-0-0-1.clickable-0-0-8.clicker-0-0-223</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f32ebdd2-6155-4c61-85b5-ea45bb669464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>dropdown-menu-account</value>
+      <webElementGuid>e25a9a14-11ad-407f-9d02-6e3e3328d72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1ce52b27-1dc6-4adb-a65c-30c53f2bf064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 clickable-0-0-8 clicker-0-0-223</value>
+      <webElementGuid>c933357d-8f24-453f-a7d9-cc6c92bccaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AkunKegiatankuSurvei KebhinekaanKeluar</value>
+      <webElementGuid>297a81a3-a9e4-4727-afc3-cf2c4a23d9b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 flex-0-0-2 container-0-0-176 page-0-0-229&quot;]/div[@class=&quot;box-0-0-1 content-0-0-178 content-0-0-232&quot;]/header[@class=&quot;box-0-0-1 centerX-0-0-5 container-0-0-741&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 centerY-0-0-6&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4&quot;]/nav[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 navigation-0-0-747&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4 container-0-0-219&quot;]/div[@class=&quot;box-0-0-1 clickable-0-0-8 clicker-0-0-223&quot;]</value>
+      <webElementGuid>77a000da-15e3-4a9b-ac59-30bb44de5990</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[5]/div/header/div/div/nav/div[2]/div</value>
+      <webElementGuid>209613f5-19d5-4e5a-8a37-9fbbb4057ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[2]</value>
+      <webElementGuid>494ba8e2-734f-4ef6-ba0e-b69b2581cf7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::div[3]</value>
+      <webElementGuid>7e1679e2-27f3-4250-9a84-719af27b7206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/preceding::div[27]</value>
+      <webElementGuid>236a1fc9-3c83-4b98-9a55-cdc038040d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telepon: 021 57946104'])[1]/preceding::div[59]</value>
+      <webElementGuid>560552ee-9567-458c-aa8d-3caafbed15e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/div</value>
+      <webElementGuid>a4ecf8e1-919f-4693-9b95-4513fd438c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AkunKegiatankuSurvei KebhinekaanKeluar' or . = 'AkunKegiatankuSurvei KebhinekaanKeluar')]</value>
+      <webElementGuid>33376cf6-b73f-492c-be2f-bc758935cdbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

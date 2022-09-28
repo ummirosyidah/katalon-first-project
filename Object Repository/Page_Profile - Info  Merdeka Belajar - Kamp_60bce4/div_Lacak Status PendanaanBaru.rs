@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lacak Status PendanaanBaru</name>
+   <tag></tag>
+   <elementGuidId>ecadd587-1dc9-410f-8357-c4ba9bc6e21a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[5]/div/div/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>008c9674-ce5d-4a9b-9e82-85af676ee593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 clickable-0-0-8 menu-0-0-589</value>
+      <webElementGuid>150ce241-7048-4953-8eba-4e1c6afbfe5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lacak Status PendanaanBaru!</value>
+      <webElementGuid>eabddae6-278c-4d10-9f23-1b14cc019384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 flex-0-0-2 page-0-0-1223&quot;]/div[@class=&quot;box-0-0-1 centerY-0-0-6&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4&quot;]/div[@class=&quot;box-0-0-1&quot;]/div[@class=&quot;box-0-0-1 menu-0-0-1222&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 clickable-0-0-8 menu-0-0-589&quot;]</value>
+      <webElementGuid>a19804b6-4724-4445-a74a-487b5a09e616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[5]/div/div/div/div[2]/div[3]</value>
+      <webElementGuid>97f28452-5913-47bd-a5d3-861fb6b3680c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlu Dilengkapi'])[1]/following::div[5]</value>
+      <webElementGuid>99a8f191-8bab-4760-b86b-8dba9b7adb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[29]</value>
+      <webElementGuid>b253a4ba-a6fc-4f29-944d-e48a0fe32291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telepon: 021 57946104'])[1]/preceding::div[69]</value>
+      <webElementGuid>bbb958ae-696a-4ce7-b94f-863134bb6be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>fecb4a63-db14-4a43-a14b-7e9d7da60e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lacak Status PendanaanBaru!' or . = 'Lacak Status PendanaanBaru!')]</value>
+      <webElementGuid>908545f7-6687-41d5-9a38-685e40e3667c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

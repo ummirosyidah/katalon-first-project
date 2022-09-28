@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProfilPerlu Dilengkapi</name>
+   <tag></tag>
+   <elementGuidId>1caad580-5e1d-47a4-84c8-8223a2e537bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[5]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-0-0-1.flex-0-0-2.row-0-0-4.centerY-0-0-6.clickable-0-0-8.menu-0-0-589</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abe0a9aa-aa5f-40ce-baf0-43e633b38195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 clickable-0-0-8 menu-0-0-589</value>
+      <webElementGuid>b931003d-9f29-4033-ae9f-c830bbbf9374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ProfilPerlu Dilengkapi</value>
+      <webElementGuid>d54a0861-b4bd-443b-a2bd-6ed2e415b55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;box-0-0-1 flex-0-0-2 page-0-0-1223&quot;]/div[@class=&quot;box-0-0-1 centerY-0-0-6&quot;]/div[@class=&quot;box-0-0-1 row-0-0-4&quot;]/div[@class=&quot;box-0-0-1&quot;]/div[@class=&quot;box-0-0-1 menu-0-0-1222&quot;]/div[@class=&quot;box-0-0-1 flex-0-0-2 row-0-0-4 centerY-0-0-6 clickable-0-0-8 menu-0-0-589&quot;]</value>
+      <webElementGuid>9a6339ce-3983-46cf-8b20-30dc49c7bf44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[5]/div/div/div/div[2]/div</value>
+      <webElementGuid>3e283285-b610-4418-9691-2d8847572858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[20]</value>
+      <webElementGuid>d922a2f6-781f-423d-a4cb-cb095bd62079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::div[21]</value>
+      <webElementGuid>bc4e155d-c4df-4e8d-acb2-d862a094c864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru!'])[1]/preceding::div[12]</value>
+      <webElementGuid>d6d002a0-b26f-4848-bf40-fc0ce53d7720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div</value>
+      <webElementGuid>ecaaaa84-3977-4f8a-9415-d84858fb9887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ProfilPerlu Dilengkapi' or . = 'ProfilPerlu Dilengkapi')]</value>
+      <webElementGuid>ffd40afb-f5b5-453e-93e3-121227b73c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
